@@ -37,3 +37,9 @@ build/
 .idea/codeStyles/*
 !.idea/codeStyles/codeStyleConfig.xml
 !.idea/codeStyles/Project.xml
+
+# AI
+.agents/**
+.codex/**
+.trellis/**
+AGENTS.md
