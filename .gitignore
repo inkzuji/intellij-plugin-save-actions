@@ -43,3 +43,4 @@ build/
 .codex/**
 .trellis/**
 AGENTS.md
+.DS_Store
